@@ -1,0 +1,5 @@
+device_name=input("Прибор: ")
+inventory_number=input("Номер: ")
+fine_badly=input("Исправность: ")
+count=input("Количество: ")
+print(f"  \n\nНазвание прибора: {device_name}\nНомер:\t\t  {inventory_number}\nИсправность:\t  {fine_badly}\nКоличество:\t  {count}")
